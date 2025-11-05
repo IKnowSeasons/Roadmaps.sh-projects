@@ -7,7 +7,7 @@
     <meta name=description content="Single page CV of IKnowSeasons">
     <meta property="og:title" content="IKnowSeasons - CV">
     <meta property="type" content="website">
-    
+    <link rel="icon" type="image/jpg" href=""
     <title>IKnowSeasons - CV</title>
   </head>
   <body>
@@ -36,5 +36,6 @@
         <li>Another fake skill</li>
       </ul>
     </section>
+    
   </body>
 </html>
