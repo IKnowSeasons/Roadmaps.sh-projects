@@ -7,8 +7,7 @@
     <meta name=description content="Single page CV of IKnowSeasons">
     <meta property="og:title" content="IKnowSeasons - CV">
     <meta property="type" content="website">
-    <link rel="icon" type="image/jpg" href=""
-    <title>IKnowSeasons - CV</title>
+    <link rel="icon" type="image/jpg" href="favicon.ico">
   </head>
   <body>
     <header>
